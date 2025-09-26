@@ -59,9 +59,9 @@ I also enjoy playing Open-World, FPS, Adventure, Platformer, Games.
 
 <p>
   <a href="/"  align="left">
-    <img src="https://raw.githubusercontent.com/sekumane/sekumane/main/stats.svg" alt="Stats"/>
+    <img src="https://raw.githubusercontent.com/slyemane/slyemane/main/stats.svg" alt="Stats"/>
     <br />
-    <img src="https://raw.githubusercontent.com/sekumane/sekumane/main/views-badge.svg" alt="Profile Views" />
+    <img src="https://raw.githubusercontent.com/slyemane/slyemane/main/views-badge.svg" alt="Profile Views" />
 
   </a>
 </p>
